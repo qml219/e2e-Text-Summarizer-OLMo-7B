@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: e2e-Text-Summarizer-OLMo-7B
+Version: 0.0.1
+Summary: Text Summarizer with OLMo 7B
+Home-page: https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}
+Author: qml219
+Author-email: leminhquan2192002@gmail.com
+Project-URL: Bug Tracker, https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# e2e-Text-Summarizer-OLMo-7B
+End to End Text Summarizer - OLMo 7B LLM 
